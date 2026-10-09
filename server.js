@@ -117,7 +117,7 @@ app.get('/watch/:type/:id', async (req, res) => {
       <p style="color: #aaa; margin-bottom: 25px;">กรุณารอสักครู่ ระบบกำลังเปลี่ยนเส้นทางใน <span id="countdown" style="color: #e50914; font-weight: bold; font-size: 1.5rem;">5</span> วินาที...</p>
       ${nativeBannerAd()}
       <div style="margin-top: 20px;">
-        <a id="direct-link" href="https://zero.lpmovie.world" class="watch-btn" style="text-decoration:none;">คลิกที่นี่หากรอนานเกินไป</a>
+        <a id="direct-link" href="https://moviegate.bolt.host/th?" class="watch-btn" style="text-decoration:none;">คลิกที่นี่หากรอนานเกินไป</a>
       </div>
     </div>
     <script>
